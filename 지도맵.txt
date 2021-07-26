@@ -1,0 +1,33 @@
+<구글API>
+라이브러리
+Maps JavaScript API
+사용
+우측로고 클릭
+API및 서비스 -> 사용자인증번호
+사용자 인증 정보 만들기
+API키 만들기
+
+API 키 생성됨 : AIzaSyAZcmJjJ9_7xkgKzNyAiEWoqa-ju9b9ASg
+
+집주소 : 
+경기도 광주시 목현동 모개미길34번길 25
+37.437220, 127.209557
+
+----------------------------------------------------------
+
+카카오 맵 : https://apis.map.kakao.com/web/
+
+
+<카카오 개발자 : https://developers.kakao.com/>
+시작하기
+애플리케이션 추가하기
+
+JavaScript 키 : 0c68d21574e7ed2494a811788bad9a45
+
+
+
+http://localhost:8080
+http://127.0.0.1:5500
+
+
+

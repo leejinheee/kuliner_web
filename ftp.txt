@@ -1,0 +1,62 @@
+url 창에 주소를 입력하면 통신이 시작
+http : Hyper Text Transport Protocol
+ip address : 211.114.71.12(Protocol)
+
+localhost => 본인PX/Moblie(단말기)를 서버로 운영 시 사용되는 주소가 localhost//직접 서버로부터 주소를 인지
+127.0.0.1 => 본인PX/Moblie(단말기)에 주소를 시어 놓는다. // 서버에서 할당된 주소를 지칭 시킨다.
+
+http : http + security(보안) => SSL norton security
+
+[ftp: File Transfer Protocol]
+github / filezilla
+문서 또는 파일을 특정한 ip로 이동을 시킨다.
+
+============================================================
+
+
+
+
+
+
+
+
+
+
+
+============================================================
+
+<닷홈>
+아이디 : dlwlsgml4212 
+도메인 : dlwlsgml4212.dothome.co.kr [223.26.138.80]
+어드민: http://dlwlsgml4212.dothome.co.kr/myadmin/
+
+<파일질라>
+호스트 : dlwlsgml4212.dothome.co.kr  / 223.26.138.80 (되도록 전자로 사용.)
+사용자명 : dlwlsgml4212
+비밀번호 : 영문 특수문자 번호 입력
+
+01. 우측 상단 html 더블클릭하고
+02. 밑에 흰색바탕화면에 우측마우스 클릭
+03. 디렉터리 만들기 클릭 
+04. 브랜드명 적고 확인 ex)/html/kuliner
+05. 만들어진 브랜드명 위쪽에서 더블클릭
+06. 밑에 흰색쪽에 만든 HTML~css..js..img 끌어 넣기!
+07. 확인 : ex) http://dlwlsgml4212.dothome.co.kr/kuliner/
+
+
+
+
+
+
+
+
+
+
+============================================================
+<깃터브>
+kuliner_web
+C:\Users\user\Documents\GitHub
+
+
+
+
